@@ -1,0 +1,19 @@
+body{ 
+    background-image: url(/b/.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: blue;
+}
+h3{
+    color:cyan;
+}
+label{
+    color: darkblue;
+    font-size: 25px;
+}
+span{
+    color: darkcyan;
+    font-size: 25px;
+}
